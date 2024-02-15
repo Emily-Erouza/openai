@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "openai": "^4.28.0"
+  },
+  "name": "openai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+  
+  
+}
